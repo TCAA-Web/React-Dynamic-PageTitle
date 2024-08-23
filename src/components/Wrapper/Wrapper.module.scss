@@ -1,0 +1,10 @@
+.wrapperStyle {
+  color: black;
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 5vh;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
